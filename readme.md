@@ -1,6 +1,6 @@
 # Installation of Odoo 16 with docker-compose
 ### Requirements
-* Docker and docker-compose installed
+* Docker and docker-compose installed 123456
 
 ### Steps
 1. Duplicate and rename:
